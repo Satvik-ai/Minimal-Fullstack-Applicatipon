@@ -3,7 +3,7 @@
 This is a skill demonstration project.
 
 I have built a simple fullstack web application using flask framework having a SQLite database and SQLAlchemy is the 
-package used for facilitating the communication between the application and the database. In this application we are displaying the list of articles that we have in our database.
+package used for facilitating the communication between the application and the database. This application displays the list of articles present in the database.
 
 
 ### How To Run
