@@ -10,7 +10,7 @@ package used for facilitating the communication between the application and the 
 
 Open a terminal in the project root directory and run the following commands 
 
-1. Install `virtualenv`:
+1. Install virtualenv:
 ```
 $ pip install virtualenv
 ```
